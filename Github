@@ -1,0 +1,105 @@
+# <html lang="pt-BR">
+
+
+
+<head>
+
+    <link rel="stylesheet" href="styles.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link
+
+        href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+
+        rel="stylesheet">
+
+    <title>aluramflix</title>
+
+</head>
+
+
+
+<body>
+
+    <header>ALURAFLIX</header>
+
+
+
+    <section class="chamada">
+
+        <div class="chamada-texto">
+
+            <h1>CAMILA LOURES</h1>
+
+            <p>#CAMILA LOURES</p>
+
+        </div>
+
+
+
+        <div>
+
+            <iframe width="560" height="315" src="https://youtu.be/y3PTAOzo_DQ?si=hvyACFkmLuN367H4"
+
+                title="YouTube video player" frameborder="0"
+
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+        </div>
+
+    </section>
+
+
+
+    <section class="categoria">
+
+        <h2>Filmes e séries</h2>
+
+        <div class="categoria-videos">
+
+            <a href="https://youtu.be/o9gFzb7cblc?si=ABGpVSnuauW_hkGv">
+
+                <img src="https://youtu.be/uy0K87R9Cqc?si=W4xBnCNtsdzarugD" />
+
+            </a>
+
+            <a href="https://youtu.be/iErvti6GMJ0?si=8L83Y7pY2siTnDnW">
+
+                <img src="https://youtu.be/yDsQg3HDi3M?si=f0H_NWbzwMGkLcXi" />
+
+            </a>
+
+            <a href="https://youtu.be/N5Lq-bWE7K4?si=bq9_awDfmrxaUdw0">
+
+                <img src="https://youtu.be/mmP4ESifOms?si=sOyKw-9tIlWYI1Kj" />
+
+            </a>
+
+            <a href="https://youtu.be/9ZkpR7RW2fw?si=tUfWPwCHJo2ueQyw">
+
+                <img src="https://youtu.be/GqlohW5IyJs?si=cky-Y-r8thh0cBx5" />
+
+            </a>
+
+            <a href="https://youtu.be/O9JgfP6f8MA?si=XJXBtPyJZsMWMNfp">
+
+                <img src="https://youtu.be/Oc-Z-lswTb0?si=q4WPUf_DOfnngR1l" />
+
+            </a>
+
+        </div>
+
+    </section>
+
+
+
+</body>
+
+
+
+</html>
